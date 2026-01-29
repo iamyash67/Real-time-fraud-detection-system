@@ -1,0 +1,28 @@
+# Kafka
+kafka-python==2.0.2
+
+# Spark (via findspark to integrate with Jupyter or local Python)
+pyspark==3.4.1
+findspark==2.0.1
+
+# ML & Data
+scikit-learn==1.4.0
+pandas==2.2.0
+numpy==1.26.2
+
+# PostgreSQL Database Access
+psycopg2-binary==2.9.9
+sqlalchemy==2.0.25
+
+# Dashboard (if you go with Dash)
+dash==2.14.2
+dash-bootstrap-components==1.5.0
+plotly==5.18.0
+
+# Jupyter (optional but recommended for dev)
+notebook==7.0.6
+ipython==8.20.0
+
+# Utilities
+python-dotenv==1.0.1
+
